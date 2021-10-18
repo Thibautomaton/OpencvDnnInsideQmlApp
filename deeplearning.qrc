@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/labels">
+        <file>COCO_labels.txt</file>
+    </qresource>
+</RCC>
